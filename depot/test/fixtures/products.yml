@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+ruby:
+  title: Proguraming Ruby 1.9
+  description:
+    MyText1
+    MyText2
+    MyText3
+  image_url: MyString.jpg
+  price: 9.99
